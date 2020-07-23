@@ -1,4 +1,4 @@
-name: ABM Tarun
+name: Mohammad Rakibul Hasan Chowdhury
 first_name: Mohammad Rakibul
 last_name: Hasan Chowdhury
 location: Dhaka,Bangladesh
@@ -18,8 +18,8 @@ education:
       sub: Industrial and production engineering (IPE)
       period : February 2016 - Present
       result: 
-        - CGPA
-        - N/A
+        - CGPA 3.11/4.00
+       
     
     - degree: H.S.C.(Higher Secondary Certificate)
       institute: 
@@ -48,9 +48,10 @@ skillButtons: ['fab fa-java', 'fab fa-python', 'fab fa-html5' , 'fab fa-css3-alt
 skills: 
   - title : Technical Skills
     list:
-      - <strong>Expert:</strong> Python, C, C++, Java.
-      - <strong>Fairly Good:</strong> Bash, HTML, CSS, LATEX, SQL, Javascript, Matlab, Assembly, JavaScript
-      - <strong>Database:</strong> MySQL, Oracle
+      - <strong>Expert:</strong> Microsoft Excel, AutoCAD, Solidworks.
+      - <strong>Fairly Good:</strong> C Programming, Matlab, Ansys.
+      - <strong>Fairly Good:</strong> Microsoft Word, Powerpoint.
+      - <strong>Fairly Good:</strong> Taekwondo, Kung Fu.
       - <strong>Version Control System:</strong> GitHub.
   
   - title: Commuication Skills
@@ -62,10 +63,10 @@ skills:
 interest:
   - title: Research Interests
     list: 
-      - Computation Biology
+      - Logistics Management
       - Health Informatics
       - Data Science
-      - Machine Learning
+      - Supply chain management 
 
   - title: Hobbies and Other Interests
     list: 
@@ -75,65 +76,58 @@ interest:
 projects:
     - title: UNDERGRAD PROJECTS
       projList: 
-        - name: CONTINUOUS MONITORING AND SMART EMERGENCY WARNING SYSTEM FOR CARDIOVASCULAR PATIENTS
+        - name: ManusHoye
           details : >  
-            Giving warning in advance for patients 
-            with arrhythmia using PPG. 
-          link: https://google.com
+            An online platform where anyone can find any type of help. 
+            It will work for developing human interaction through mutual helps.
+          link: https://www.manushoye.com
 
         - name: >
-            ASSOCIATION MAPPING OF QUANTITATIVE
-                  PHENOTYPES FROM SEQUENCING READS USING
-                  K-MERS      
+            
+                  Micro motion analysis
           details : > 
-            Finding genome-sequence responsible for diseases which 
-            have quantitative phenotypes  
-          link: 
+            Micromotion analysis done on various workers of Square Fashions Limited. We worked for improving their efficiency.    
+          
           
     
 
 awards: 
-  - <strong> Duke of Edinburgh gold award </strong>
   - <strong>Duke of Edinburgh silver award </strong>
   - <strong> Duke of Edinburgh Bronze Award </Strong>
 
 #for icon, go to this site: https://fontawesome.com/
 contact: 
     mail : 
-        - abdullahmatorun786@gmail.com
-        - abdullahmia.ipebuet15@gmail.com
+        - Chowdhury.rakibul15@gmail.com
+        - rakibul.buetipe15@gmail.com
     social:
         - name: facebook
           link:  https://www.facebook.com/heartvacantperson
           icon: fab fa-facebook-f
         
         - name: github
-          link : https://github.com/abmtarun
+          link : https://github.com/chowdhury-rakibul
           icon: fab fa-github
 
         - name: linkedin 
-          link : https://www.linkedin.com/in/masum-rahman-0a4364112/ 
+          link : https://www.linkedin.com/in/mohammad-rakibul-hasan-chowdhury-a77354170
           icon: fab fa-linkedin-in
 
 
 experience:
-  - role: Production Engineer
-    organization:  Bashundhara 
+  - role: Internship Trainee
+    organization: Square Fashions Limited
     experience: > 
              Great place to work on. I really 
-             loved it's culture 
+             loved it's culture. I learnt a lot while working on a project there. 
             
-    period: March,2013 - Present
-
-  - role: Production Engineer
-    organisation:  Bashundhara 
-    experience: My experience goes here 
-    period: March,2013 - Present
+    period: April,2020 - May, 2020
   
 
 
-
 co_curricular:
-  - <strong>Vice President @</Strong> House of volunteers BUET Branch
-  - <strong>Director @</strong>  Buet Career Club
-  - <strong>Volunteer @</strong>  Basic Right Initiative
+  - <strong>Volunteer @</strong> ManusHoye 
+  - <strong>Vice President @</strong> BUET Self Difense Club
+  - <strong>Director @</Strong> House of volunteers BUET Branch
+  - <strong>Ambassador @</strong>  Buet Career Club
+    
